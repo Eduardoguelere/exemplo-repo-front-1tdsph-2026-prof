@@ -8,7 +8,7 @@
 }
 /* Reset básico */
 
-root{
+:root{
     /*declarando uma variavel no css: utilizamos os -- para marcar um identificador, o identificador(nome da variavel).
     Os identificadores devem sempre ser seguidos dos -- e do nome(identificador).
     Ex:
